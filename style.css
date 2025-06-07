@@ -4,7 +4,7 @@
 
 body {
   font-family: DM sans;
-  background-image: linear-gradient(to left, #19093285, #120428),url(images/header.png);
+  background-image: linear-gradient(to left, #19093285, #120428),url(header.png);
   margin: 0;
   font-family: Oxanium;
   gap: 100px;
@@ -112,7 +112,7 @@ input {
   flex-direction: row;
   align-items: center;
   background-image: linear-gradient(to left, #19093285, #120428),
-    url(images/section2.png);
+    url(section2.png);
   margin: 0;
   height: 90vh;
   justify-content: center;
@@ -233,7 +233,7 @@ input {
   justify-content: center;
   padding-top: 150px;
   padding-bottom: 100px;
-  background: url(images/fundo4footer.png);
+  background: url(fundo4footer.png);
   background-size: cover;
 }
 
